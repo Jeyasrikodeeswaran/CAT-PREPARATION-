@@ -60,3 +60,4 @@ Percentage problems often become easier when:
 Revisit the same question once more to reinforce the logic and practice 2–3 similar profit & discount problems.
 
 ##NOTES
+
